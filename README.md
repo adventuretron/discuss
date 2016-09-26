@@ -5,7 +5,7 @@
 - Chat is on gitter: [gitter.im/adventuretron/discuss](https://gitter.im/adventuretron/discuss)
 
 ## Code of conduct
-All participants in the production of Adventuretron projects are expected to follow the [code of conduct]().
+All participants in the production of Adventuretron projects are expected to follow the [code of conduct](CONDUCT.md).
 
 ## Additional links
 - [adventuretron.org](https://adventuretron.org)
